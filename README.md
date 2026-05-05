@@ -1,5 +1,5 @@
 <h2 align="left">Opa meu nome é Lara! Sou estudante da escola do futuro</h2>
-<h2 align="left">Hi my names is Lara! I'm student of "escola do futuro".</h2>
+<h2 align="left">Hi my name is Lara! I'm student of "escola do futuro".</h2>
 
 ###
 
