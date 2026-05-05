@@ -1,12 +1,6 @@
 <h2 align="left">Opa meu nome é Lara! Sou estudante da escola do futuro</h2>
 <h2 align="left">Hi my name is Lara! I'm student of "escola do futuro".</h2>
 
-###
-
-<img align="right" height="150" src="https://i.pinimg.com/originals/29/90/c0/2990c0e281994e4744e539c19069d714.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
