@@ -63,18 +63,6 @@ I enjoy building modern interfaces, experimenting with design ideas and turning 
   <li>Create a personal portfolio</li>
 </ul>
 
-###
-
-<h2 align="left">📊 GitHub Stats</h2>
-
-<div align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-###
-
 <h2 align="left">📫 Contact</h2>
 
 <div align="left">
