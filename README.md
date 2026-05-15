@@ -67,4 +67,7 @@ I enjoy building modern interfaces, experimenting with design ideas and turning 
   <a href="mailto:larab4766@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
+  <a href="https://www.linkedin.com/in/SEU-USUARIO/](https://www.linkedin.com/in/lara-barreto-116106408/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+</a>
 </div>
